@@ -1,3 +1,17 @@
+```mermaid
+graph TD
+    A[APK] --> B[assets/]
+    A --> C[META-INF/]
+    C --> D[CERT.RSA]
+    C --> E[CERT.SF]
+    C --> F[MANIFEST.MF]
+    A --> G[lib/]
+    A --> H[res/]
+    A --> I[AndroidManifest.xml]
+    A --> J[classes.dex]
+    A --> K[resources.arsc]
+```
+
 # Awesome [APK](https://en.wikipedia.org/wiki/Apk_(file_format)) (*A*_ndroid_ *P*_ac_*k*_age_) Internals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
