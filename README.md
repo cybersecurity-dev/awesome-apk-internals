@@ -13,6 +13,9 @@ graph TD
 ```
 
 # Awesome [APK](https://en.wikipedia.org/wiki/Apk_(file_format)) (*A*_ndroid_ *P*_ac_*k*_age_) Internals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
