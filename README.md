@@ -1,3 +1,5 @@
+<div align="center">
+    
 ```mermaid
 graph TD
     A[APK] --> B[assets/]
@@ -12,9 +14,11 @@ graph TD
     A --> K[resources.arsc]
 ```
 
-# Awesome [APK](https://en.wikipedia.org/wiki/Apk_(file_format)) (*A*_ndroid_ *P*_ac_*k*_age_) Internals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [APK](https://wikipedia.org/wiki/Apk_(file_format)) (*A*_ndroid_ *P*_ac_*k*_age_) Internals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
 <p align="center">
