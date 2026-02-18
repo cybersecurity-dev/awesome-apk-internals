@@ -38,6 +38,9 @@ graph TD
 ## APK X-Ray
 
 ## Miscellaneous Tools
+* [apktool](https://apktool.org/) - A [tool](https://www.kali.org/tools/apktool/) for reverse engineering Android apk files.
+* [dex2jar](https://github.com/pxb1988/dex2jar) - [Tools](https://www.kali.org/tools/dex2jar/) to work with android .dex and java .class files   
+* [jadx](https://github.com/skylot/jadx) - Command line and GUI [tools](https://www.kali.org/tools/jadx/) for producing Java source code from Android Dex and Apk files.
 
 ##
 
